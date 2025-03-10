@@ -1,6 +1,6 @@
 My name is Muhammad Adam Alhafizh - Data Enthusiast | Data Analyst / Engineer
 =======================================
-*Hi 👋*
+*Hi 👋
 
 -----------------------------------------
 
