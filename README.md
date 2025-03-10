@@ -25,7 +25,7 @@ Muhammad Adam Alhafizh - Data Enthusiast | Data Analyst / Engineer
 
 <h2>⚙️ Skills </h2>
 
-* General Skills: Exploratory Data Analysis, Time Series Analysis, Machine Learning, ETL, Data Pipeline,
+* **General Skills:** Exploratory Data Analysis, Time Series Analysis, Machine Learning, ETL, Data Pipeline,
 Web Scraping.
 * **Soft Skills:** Problem solving, Program debugging, Team communication, Adaptability, Attention to Detail,
 Critical Thinking, and Willingness to Learn
