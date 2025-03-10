@@ -1,6 +1,7 @@
 My name is Muhammad Adam Alhafizh - Data Enthusiast | Data Analyst / Engineer
 =======================================
 **Hi 👋**
+
 I'm Adam, a Data Analyst/Engineer. I am Driven by a deep passion for data, I specialize in SQL (PostgreSQL, MySQL) and Python (Pandas, NumPy) for data processing, ETL pipelines, and database management. With hands-on experience in data warehousing, data modeling, and SQL query optimization, I focus on improving efficiency and performance. I excel in data visualization and reporting, transforming complex datasets into valuable business insights. Constantly learning and adapting to new technologies, I thrive in solving analytical challenges and leveraging data to drive informed decision-making. Open to opportunities in Data Analytics, Data Engineering, and related fields. 🚀
 -----------------------------------------
 
